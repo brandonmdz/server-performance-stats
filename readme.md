@@ -30,19 +30,16 @@ This project provides a Bash script to analyze any Linux server performance stat
    ```bash
    git clone https://github.com/brandonmdz/server-performance-stats.git
    cd server-performance-stats
-```
 
 2. **Make the script executable:**
 
    ```bash
    chmod +x server-stats.sh
-```
 
 3. **Run the script:**
 
 	```bash
    ./server-stats.sh
-```
 
 ## Example output:
 
